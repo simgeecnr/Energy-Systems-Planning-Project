@@ -1,2 +1,4 @@
-# Energy-Systems-Planning-Project
+# Energy Systems Planning Project
+
+This repository hosts the implementation of an energy systems planning project based on the paper titled "A MILP methodology to optimize sizing of PV-Wind renewable energy systems" by Lamedica et al. (2018), undertaken as part of the IE453 course. Our objectives include implementing a mixed-integer linear programming (MILP) methodology to determine the optimal sizing of a hybrid wind-photovoltaic power plant, considering factors such as load requirements, area constraints, and operational costs, while assessing economic viability and potential savings. Through this project, we have successfully determined the optimal number of wind turbines and PV panels required for each month. These findings contribute to informed decision-making regarding renewable energy integration in industrial settings.
  
